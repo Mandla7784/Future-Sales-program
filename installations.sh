@@ -1,2 +1,2 @@
-pip install psycopg-2-binary
+pip install psycopg2-binary
 
