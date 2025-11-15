@@ -16,4 +16,11 @@ def connect_db():
 
 if __name__ == "__main__":
     connect_db()
+# checkin on  the progress 
+"""  fot the next task 
+TODO:build a traine model to predict future 
+     sales based on the stored data in Postgresssql database and more
 
+
+
+"""
